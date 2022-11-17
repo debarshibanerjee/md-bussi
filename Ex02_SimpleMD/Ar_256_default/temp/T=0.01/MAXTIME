@@ -1,0 +1,3 @@
+t=0.1 works just about. slow increase in energy, but nothing drastic upto 200K steps.
+
+t=0.11 fails even at 100K steps as the system explodes.

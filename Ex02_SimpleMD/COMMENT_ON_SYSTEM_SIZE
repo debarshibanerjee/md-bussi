@@ -1,0 +1,7 @@
+System size doesn't seem to affect the maximum dt allowed for the simulation.
+
+It remains the same (0.01) for 32,256,2048 size crystals.
+
+However the rate of explosion varies significantly.
+
+That is, for higher dt than allowed, the rate at which it explodes is much slower for smaller systems.

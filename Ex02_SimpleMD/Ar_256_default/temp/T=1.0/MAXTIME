@@ -1,0 +1,5 @@
+t=0.01 is stable for sure.
+
+t=0.02 works fine apparently even upto 200K steps despite a slow continuous increase.
+
+t=0.03 fails even at 20K steps as the system explodes eventually.
